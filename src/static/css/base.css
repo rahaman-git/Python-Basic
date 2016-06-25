@@ -1,0 +1,24 @@
+h1{
+	color: #777777
+}
+.wmd-panel{
+	margin-right: 0px !important;
+	margin-left: 0px !important;
+}
+
+#id_publish_day{
+	width: 50px;
+	float: left;
+	margin-right: 5px;
+	padding: 0;
+}
+#id_publish_month{
+	width: 80px;
+	float: left;
+	margin-right: 5px;
+}
+#id_publish_year{
+	width: 100px;
+	float: left;
+	margin-right: 5px;
+}
