@@ -1,3 +1,3 @@
 # Bloginardo
 
-An usefull blog application
+An useful blog application
