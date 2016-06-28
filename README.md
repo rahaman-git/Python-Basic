@@ -1,1 +1,3 @@
-# Python-Basic
+# Bloginardo
+
+An usefull blog application
